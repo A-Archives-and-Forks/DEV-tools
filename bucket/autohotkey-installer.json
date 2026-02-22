@@ -1,10 +1,10 @@
 {
-    "version": "2.0.19",
+    "version": "2.0.21",
     "description": "The ultimate automation scripting language for Windows.",
     "homepage": "https://www.autohotkey.com/",
     "license": "GPL-2.0-or-later",
-    "url": "https://ghproxy.com/https://github.com/Lexikos/AutoHotkey_L/releases/download/v2.0.19/AutoHotkey_2.0.19_setup.exe#/autohotkey-installer.exe",
-    "hash": "fd55129cbd356f49d2151e0a8b9662d90d2dbbb9579cc2410fde38df94787a3a",
+    "url": "https://ghproxy.com/https://github.com/Lexikos/AutoHotkey_L/releases/download/v2.0.21/AutoHotkey_2.0.21_setup.exe#/autohotkey-installer.exe",
+    "hash": "b114ff7611b7f96828bc15848cb0c7bf54655021e289c17ab7d6e5246ecb2fd0",
     "architecture": {
         "64bit": {
             "installer": {
