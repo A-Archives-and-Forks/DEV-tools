@@ -1,5 +1,5 @@
 {
-    "version": "1.38.1",
+    "version": "1.39.0",
     "description": "Astronomer's open source CLI is the easy way to run Apache Airflow on your machine.",
     "homepage": "https://docs.astronomer.io/software/cli-quickstart",
     "license": {
@@ -8,16 +8,16 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.com/https://github.com/astronomer/astro-cli/releases/download/v1.38.1/astro_1.38.1_windows_amd64.exe#/astro.exe",
-            "hash": "67d6a3aea84c3602311a606abbf599eb5d0aef36232f1164a25aa2e495974c8f"
+            "url": "https://ghproxy.com/https://github.com/astronomer/astro-cli/releases/download/v1.39.0/astro_1.39.0_windows_amd64.exe#/astro.exe",
+            "hash": "b114ff7611b7f96828bc15848cb0c7bf54655021e289c17ab7d6e5246ecb2fd0"
         },
         "32bit": {
-            "url": "https://ghproxy.com/https://github.com/astronomer/astro-cli/releases/download/v1.38.1/astro_1.38.1_windows_386.exe#/astro.exe",
-            "hash": "67d6a3aea84c3602311a606abbf599eb5d0aef36232f1164a25aa2e495974c8f"
+            "url": "https://ghproxy.com/https://github.com/astronomer/astro-cli/releases/download/v1.39.0/astro_1.39.0_windows_386.exe#/astro.exe",
+            "hash": "b114ff7611b7f96828bc15848cb0c7bf54655021e289c17ab7d6e5246ecb2fd0"
         },
         "arm64": {
-            "url": "https://ghproxy.com/https://github.com/astronomer/astro-cli/releases/download/v1.38.1/astro_1.38.1_windows_arm64.exe#/astro.exe",
-            "hash": "67d6a3aea84c3602311a606abbf599eb5d0aef36232f1164a25aa2e495974c8f"
+            "url": "https://ghproxy.com/https://github.com/astronomer/astro-cli/releases/download/v1.39.0/astro_1.39.0_windows_arm64.exe#/astro.exe",
+            "hash": "b114ff7611b7f96828bc15848cb0c7bf54655021e289c17ab7d6e5246ecb2fd0"
         }
     },
     "bin": "astro.exe",
